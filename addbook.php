@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<title>Book Information</title>
+	<title>Book Information1</title>
     <link href="assets/css/reg.css" rel="stylesheet">
 </head>
 
